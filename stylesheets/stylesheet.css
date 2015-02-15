@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+table, td, tr {
+  border-spacing: 0;
+  border: 0;
+  border-collapse: collapse;
+}
+
+td {
+  text-align: center;
+}
+
+span {
+  font-size: 12px;
+}
+
+img {
+  width: 24px;
+  height: 24px;
+}
+
+.selected {
+  color: #008000;
+  background: lightgreen;
+  font-weight: bold;
+}
+
+.disabled {
+  background: #bbb;
+}
+
+#children-table td {
+  width: 100px;
+  border: 1px solid black;
+}

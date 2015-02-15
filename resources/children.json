@@ -1,0 +1,825 @@
+{
+  "children":
+  [
+    {
+      "id": 0,
+      "name": "Lucina",
+      "mother": ["Avatar", "Sully", "Sumia", "Maribelle", "Olivia"],
+      "father": ["Chrom"],
+      "stats": {
+        "Avatar": {
+          "max": ["x", "x", "x", "x", "x", "x", "x"],
+          "growth": [83, 58, 21, 60, 60, 68, 40, 26],
+          "classes": ["Tactician"]
+        },
+        "Sully": {
+          "max": [1, 0, 4, 4, 2, -1, 0],
+          "growth": [83, 56, 16, 61, 61, 70, 41, 26],
+          "classes": ["Myrmidon", "Wyvern Rider"]
+        },
+        "Sumia": {
+          "max": [0, 1, 4, 5, 2, -2, 1],
+          "growth": [81, 55, 16, 63, 63, 70, 38, 30],
+          "classes": ["Pegasus Knight", "Knight", "Cleric"]
+        },
+        "Maribelle": {
+          "max": [-1, 3, 3, 2, 5, -3, 2],
+          "growth": [80, 51, 23, 61, 58, 76, 33, 33],
+          "classes": ["Troubadour", "Pegasus Knight", "Mage"]
+        },
+        "Olivia": {
+          "max": [2, 1, 3, 3, 2, -1, -1],
+          "growth": [83, 56, 18, 63, 63, 70, 36, 26],
+          "classes": ["Myrmidon", "Pegasus Knight"]
+        }
+      }
+    },
+    {
+      "id": 1,
+      "name": "Owain",
+      "mother": ["Lissa"],
+      "father": ["Avatar", "Frederick", "Virion", "Stahl", "Vaike", "Kellam", "Donnel", "Lon'qu", "Ricken", "Gaius", "Gregor", "Libra", "Henry"],
+      "stats": {
+        "Avatar": {
+          "max": ["x", "x", "x", "x", "x", "x", "x"],
+          "growth": [83, 58, 21, 60, 60, 68, 40, 26],
+          "classes": ["Tactician"]
+        },
+        "Frederick": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Virion": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Stahl": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Vaike": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Kellam": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Donnel": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Lon'qu": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Ricken": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gaius": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gregor": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Libra": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Henry": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Inigo",
+      "mother": ["Olivia"],
+      "father": ["Avatar", "Chrom", "Frederick", "Virion", "Stahl", "Vaike", "Kellam", "Donnel", "Lon'qu", "Ricken", "Gaius", "Gregor", "Libra", "Henry"],
+      "stats": {
+        "Avatar": {
+          "max": ["x", "x", "x", "x", "x", "x", "x"],
+          "growth": [83, 58, 21, 60, 60, 68, 40, 26],
+          "classes": ["Tactician"]
+        },
+        "Chrom": {
+          "max": [0, 0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": ["Unknown"]
+        },
+        "Frederick": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Virion": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Stahl": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Vaike": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Kellam": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Donnel": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Lon'qu": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Ricken": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gaius": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gregor": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Libra": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Henry": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Brady",
+      "mother": ["Maribelle"],
+      "father": ["Avatar", "Chrom", "Frederick", "Virion", "Stahl", "Vaike", "Kellam", "Donnel", "Lon'qu", "Ricken", "Gaius", "Gregor", "Libra", "Henry"],
+      "stats": {
+        "Avatar": {
+          "max": ["x", "x", "x", "x", "x", "x", "x"],
+          "growth": [83, 58, 21, 60, 60, 68, 40, 26],
+          "classes": ["Tactician"]
+        },
+        "Chrom": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Frederick": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Virion": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Stahl": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Vaike": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Kellam": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Donnel": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Lon'qu": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Ricken": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gaius": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gregor": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Libra": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Henry": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "Kjelle",
+      "mother": ["Sully"],
+      "father": ["Avatar", "Chrom", "Frederick", "Virion", "Stahl", "Vaike", "Kellam", "Donnel", "Lon'qu", "Ricken", "Gaius", "Gregor", "Libra", "Henry"],
+      "stats": {
+        "Avatar": {
+          "max": ["x", "x", "x", "x", "x", "x", "x"],
+          "growth": [83, 58, 21, 60, 60, 68, 40, 26],
+          "classes": ["Tactician"]
+        },
+        "Chrom": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Frederick": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Virion": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Stahl": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Vaike": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Kellam": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Donnel": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Lon'qu": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Ricken": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gaius": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gregor": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Libra": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Henry": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "Cynthia",
+      "mother": ["Sumia"],
+      "father": ["Avatar", "Chrom", "Frederick", "Gaius", "Henry"],
+      "stats": {
+        "Avatar": {
+          "max": ["x", "x", "x", "x", "x", "x", "x"],
+          "growth": [83, 58, 21, 60, 60, 68, 40, 26],
+          "classes": ["Tactician"]
+        },
+        "Chrom": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Frederick": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gaius": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Henry": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Severa",
+      "mother": ["Cordelia"],
+      "father": ["Avatar", "Frederick", "Virion", "Stahl", "Vaike", "Kellam", "Donnel", "Lon'qu", "Ricken", "Gaius", "Gregor", "Libra", "Henry"],
+      "stats": {
+        "Avatar": {
+          "max": ["x", "x", "x", "x", "x", "x", "x"],
+          "growth": [83, 58, 21, 60, 60, 68, 40, 26],
+          "classes": ["Tactician"]
+        },
+        "Frederick": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Virion": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Stahl": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Vaike": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Kellam": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Donnel": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Lon'qu": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Ricken": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gaius": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gregor": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Libra": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Henry": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Gerome",
+      "mother": ["Cherche"],
+      "father": ["Avatar", "Frederick", "Virion", "Stahl", "Vaike", "Kellam", "Donnel", "Lon'qu", "Ricken", "Gaius", "Gregor", "Libra", "Henry"],
+      "stats": {
+        "Avatar": {
+          "max": ["x", "x", "x", "x", "x", "x", "x"],
+          "growth": [83, 58, 21, 60, 60, 68, 40, 26],
+          "classes": ["Tactician"]
+        },
+        "Frederick": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Virion": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Stahl": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Vaike": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Kellam": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Donnel": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Lon'qu": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Ricken": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gaius": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gregor": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Libra": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Henry": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "Morgan",
+      "mother": [],
+      "father": [],
+      "stats": {
+
+      }
+    },
+    {
+      "id": 9,
+      "name": "Yarne",
+      "mother": ["Panne"],
+      "father": ["Avatar", "Frederick", "Virion", "Stahl", "Vaike", "Kellam", "Donnel", "Lon'qu", "Ricken", "Gaius", "Gregor", "Libra", "Henry"],
+      "stats": {
+        "Avatar": {
+          "max": ["x", "x", "x", "x", "x", "x", "x"],
+          "growth": [83, 58, 21, 60, 60, 68, 40, 26],
+          "classes": ["Tactician"]
+        },
+        "Frederick": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Virion": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Stahl": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Vaike": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Kellam": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Donnel": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Lon'qu": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Ricken": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gaius": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gregor": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Libra": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Henry": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "Laurent",
+      "mother": ["Miriel"],
+      "father": ["Avatar", "Frederick", "Virion", "Stahl", "Vaike", "Kellam", "Donnel", "Lon'qu", "Ricken", "Gaius", "Gregor", "Libra", "Henry"],
+      "stats": {
+        "Avatar": {
+          "max": ["x", "x", "x", "x", "x", "x", "x"],
+          "growth": [83, 58, 21, 60, 60, 68, 40, 26],
+          "classes": ["Tactician"]
+        },
+        "Frederick": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Virion": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Stahl": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Vaike": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Kellam": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Donnel": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Lon'qu": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Ricken": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gaius": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gregor": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Libra": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Henry": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "Noire",
+      "mother": ["Tharja"],
+      "father": ["Avatar", "Frederick", "Virion", "Stahl", "Vaike", "Kellam", "Donnel", "Lon'qu", "Ricken", "Gaius", "Gregor", "Libra", "Henry"],
+      "stats": {
+        "Avatar": {
+          "max": ["x", "x", "x", "x", "x", "x", "x"],
+          "growth": [83, 58, 21, 60, 60, 68, 40, 26],
+          "classes": ["Tactician"]
+        },
+        "Frederick": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Virion": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Stahl": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Vaike": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Kellam": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Donnel": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Lon'qu": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Ricken": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gaius": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gregor": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Libra": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Henry": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "Nah",
+      "mother": ["Nowi"],
+      "father": ["Avatar", "Frederick", "Virion", "Stahl", "Vaike", "Kellam", "Donnel", "Lon'qu", "Ricken", "Gaius", "Gregor", "Libra", "Henry"],
+      "stats": {
+        "Avatar": {
+          "max": ["x", "x", "x", "x", "x", "x", "x"],
+          "growth": [83, 58, 21, 60, 60, 68, 40, 26],
+          "classes": ["Tactician"]
+        },
+        "Frederick": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Virion": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Stahl": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Vaike": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Kellam": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Donnel": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Lon'qu": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Ricken": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gaius": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Gregor": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Libra": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        },
+        "Henry": {
+          "max": [0, 0, 0, 0, 0, 0, 0],
+          "growth": [0, 0, 0, 0, 0, 0, 0, 0],
+          "classes": []
+        }
+      }
+    }
+  ]
+}
